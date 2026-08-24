@@ -1,4 +1,4 @@
-&#x20;Hotel Management Network
+🏨 Hotel Management Network
 
 
 
@@ -6,13 +6,13 @@
 
 
 
-This project is a simulated network for a hotel environment, designed using Cisco Packet Tracer.
+This project is a simulated network for a hotel environment, designed using Cisco Packet Tracer .
 
 The network connects different hotel departments and provides a structured setup for communication, resource sharing, and basic network management.
 
 
 
-&#x20;📌 Project Overview
+📌 Project Overview
 
 
 
@@ -60,7 +60,7 @@ Each department has its own connected devices and network access.
 
 
 
-&#x20;🌐 Network Topology
+🌐 Network Topology
 
 
 
@@ -72,7 +72,7 @@ The topology shows how the hotel departments, switches, router, and end devices 
 
 
 
-🖥️ Packet Tracer Project
+&#x20;🖥️ Packet Tracer Project
 
 
 
@@ -80,11 +80,11 @@ The topology shows how the hotel departments, switches, router, and end devices 
 
 
 
-The network was created and tested in \*\*Cisco Packet Tracer\*\* to verify connectivity between the different parts of the hotel.
+The network was created and tested in Cisco Packet Tracer to verify connectivity between the different parts of the hotel.
 
 
 
-⚙️ Main Features
+&#x20;⚙️ Main Features
 
 
 
@@ -106,7 +106,7 @@ The network was created and tested in \*\*Cisco Packet Tracer\*\* to verify conn
 
 
 
-🛠️ Technologies Used
+&#x20;🛠️ Technologies Used
 
 
 
@@ -124,13 +124,13 @@ The network was created and tested in \*\*Cisco Packet Tracer\*\* to verify conn
 
 
 
-📁 Project Files
+&#x20;📁 Project Files
 
 
 
 ```text
 
-Hotel-Management-Network/
+HOTEL MNG/
 
 │
 
@@ -156,7 +156,7 @@ Hotel-Management-Network/
 
 1\. Download or clone this repository.
 
-2\. Open the `.pkt` file using Cisco Packet Tracer.
+2\. Open the `.pkt` file using Cisco Packet Tracer .
 
 3\. Review the network topology.
 
@@ -166,7 +166,7 @@ Hotel-Management-Network/
 
 
 
-🎯 Project Goal
+&#x20;🎯 Project Goal
 
 
 
